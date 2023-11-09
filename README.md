@@ -19,3 +19,5 @@ Demo video is [here](https://youtu.be/1PzCgBrDUnQ).
 
 ## License
 MIT
+
+When using Geospatial Information Authority of Japan's Geospatial Tiles, at least the source must be stated. Please refer to this [URL](https://maps.gsi.go.jp/development/ichiran.html).
